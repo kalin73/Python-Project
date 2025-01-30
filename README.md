@@ -1,2 +1,2 @@
-# Phyton-Project
+# Python-Project
 Course work
